@@ -1,0 +1,4 @@
+/Users/Guest/Desktop/Ping-Pong/obj/Debug/netcoreapp2.2/Ping.csprojAssemblyReference.cache
+/Users/Guest/Desktop/Ping-Pong/obj/Debug/netcoreapp2.2/Ping.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/Ping-Pong/obj/Debug/netcoreapp2.2/Ping.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/Ping-Pong/obj/Debug/netcoreapp2.2/Ping.AssemblyInfo.cs
