@@ -2,3 +2,14 @@
 /Users/Guest/Desktop/Ping-Pong/obj/Debug/netcoreapp2.2/Ping.csproj.CoreCompileInputs.cache
 /Users/Guest/Desktop/Ping-Pong/obj/Debug/netcoreapp2.2/Ping.AssemblyInfoInputs.cache
 /Users/Guest/Desktop/Ping-Pong/obj/Debug/netcoreapp2.2/Ping.AssemblyInfo.cs
+/Users/KobysMac/Desktop/pingPong-c-/obj/Debug/netcoreapp2.2/Ping.csprojAssemblyReference.cache
+/Users/KobysMac/Desktop/pingPong-c-/obj/Debug/netcoreapp2.2/Ping.csproj.CoreCompileInputs.cache
+/Users/KobysMac/Desktop/pingPong-c-/obj/Debug/netcoreapp2.2/Ping.AssemblyInfoInputs.cache
+/Users/KobysMac/Desktop/pingPong-c-/obj/Debug/netcoreapp2.2/Ping.AssemblyInfo.cs
+/Users/KobysMac/Desktop/pingPong-c-/bin/Debug/netcoreapp2.2/Ping.deps.json
+/Users/KobysMac/Desktop/pingPong-c-/bin/Debug/netcoreapp2.2/Ping.runtimeconfig.json
+/Users/KobysMac/Desktop/pingPong-c-/bin/Debug/netcoreapp2.2/Ping.runtimeconfig.dev.json
+/Users/KobysMac/Desktop/pingPong-c-/bin/Debug/netcoreapp2.2/Ping.dll
+/Users/KobysMac/Desktop/pingPong-c-/bin/Debug/netcoreapp2.2/Ping.pdb
+/Users/KobysMac/Desktop/pingPong-c-/obj/Debug/netcoreapp2.2/Ping.dll
+/Users/KobysMac/Desktop/pingPong-c-/obj/Debug/netcoreapp2.2/Ping.pdb

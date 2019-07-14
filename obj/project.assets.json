@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/Guest/.nuget/packages/": {},
+    "/Users/KobysMac/.nuget/packages/": {},
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Guest/Desktop/Ping-Pong/Ping.csproj",
+      "projectUniqueName": "/Users/KobysMac/Desktop/pingPong-c-/Ping.csproj",
       "projectName": "Ping",
-      "projectPath": "/Users/Guest/Desktop/Ping-Pong/Ping.csproj",
-      "packagesPath": "/Users/Guest/.nuget/packages/",
-      "outputPath": "/Users/Guest/Desktop/Ping-Pong/obj/",
+      "projectPath": "/Users/KobysMac/Desktop/pingPong-c-/Ping.csproj",
+      "packagesPath": "/Users/KobysMac/.nuget/packages/",
+      "outputPath": "/Users/KobysMac/Desktop/pingPong-c-/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/Guest/.nuget/NuGet/NuGet.Config"
+        "/Users/KobysMac/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
